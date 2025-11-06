@@ -42,32 +42,17 @@ GuiaHTMLBasico/
 └── 📖 README.md       # Este arquivo.
 ```
 
-## 🛠️ Como Executar o Projeto
+## 🛠️ Veja o projeto no seu navegador
 
-Para visualizar o projeto localmente, siga estes passos:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    ```
-
-2.  **Navegue até a pasta do projeto:**
-    ```bash
-    cd GuiaHTMLBasico
-    ```
-
-3.  **Abra o arquivo `index.html` no seu navegador:**
-    Você pode simplesmente dar um duplo clique no arquivo `index.html` ou abri-lo diretamente pelo seu editor de código (por exemplo, com a extensão "Live Server" no VS Code).
+**Clique no link abaixo:**
+https://nexuscleo-commits.github.io/GuiaHTMLBasico/
 
 ## 👤 Autor
 
 Este projeto foi desenvolvido como uma ferramenta de estudo e referência.
 
-**[Seu Nome]**
+**Cleomar da Silva**
 
-- GitHub: `@seu-usuario`
-- LinkedIn: `Seu Nome`
-
----
+- LinkedIn: https://www.linkedin.com/in/nexuscleo
 
 *Desenvolvido por &copy;NexusCleo 2025.*
