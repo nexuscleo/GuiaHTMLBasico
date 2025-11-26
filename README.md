@@ -45,14 +45,14 @@ GuiaHTMLBasico/
 ## 🛠️ Veja o projeto no seu navegador
 
 **Clique no link abaixo:**
-https://nexuscleo-commits.github.io/GuiaHTMLBasico/
+https://nexuscleo.github.io/guia-html-basico/
 
 ## 👤 Autor
 
 Este projeto foi desenvolvido como uma ferramenta de estudo e referência.
 
-**Cleomar da Silva**
+Desenvolvido por **Cleomar da Silva**
 
 - LinkedIn: https://www.linkedin.com/in/nexuscleo
 
-*Desenvolvido por &copy;NexusCleo 2025.*
+*&copy;2025 NexusCleo.*
